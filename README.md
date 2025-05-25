@@ -2,7 +2,7 @@ Hybrid IT Infrastructure Simulation
 
 This repository contains the setup and configuration of a comprehensive 19-phase hybrid IT infrastructure simulation, designed to replicate a real-world enterprise environment. It integrates various Microsoft and third-party technologies to build a scalable, secure IT infrastructure for an MNC-like environment.
 
-Phases Completed
+Phases Completed:
 
 Microsoft 365 Developer Tenant Deployment
 
