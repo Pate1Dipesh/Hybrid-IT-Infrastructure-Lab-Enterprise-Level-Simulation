@@ -1,6 +1,6 @@
 Hybrid IT Infrastructure Simulation
 
-This repository contains the setup and configuration of a comprehensive 19-phase hybrid IT infrastructure simulation, designed to replicate a real-world enterprise environment. It integrates various Microsoft and third-party technologies to build a scalable, secure IT infrastructure for an MNC-like environment.
+This project simulates a real-world hybrid enterprise IT infrastructure, integrating Microsoft 365, Entra ID, Exchange Online, and Intune with on-premises solutions like Active Directory and Group Policy. It covers key areas such as device provisioning with Windows Autopilot, endpoint security with Microsoft Defender, and email infrastructure through Exchange Online. The setup includes security baselines, Multi-Factor Authentication (MFA), VPN access, and a helpdesk solution using osTicket. Combining cloud and on-premises technologies, this project provides hands-on experience in managing modern IT environments, preparing you for real-world IT management, cloud integration, and security practices in enterprise settings.
 
 Phases Completed:
 
